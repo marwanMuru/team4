@@ -1,2 +1,2 @@
 # team4
-A Mill game that will might or might not change the world
+A Mill game that might, or might not, change the world
