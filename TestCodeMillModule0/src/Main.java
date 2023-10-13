@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Servus Peter!");
         System.out.println("Mister Monay");
 
+        System.out.printLn("I have to do a lot of stuff");
     }
 }
